@@ -12,7 +12,7 @@ const Drawer = createDrawerNavigator()
 const App = () => {
   return (
     <NavigationContainer>
-      <Drawer.Navigator initialRouteName='Jockes'>
+      <Drawer.Navigator initialRouteName='Wifi'>
         <Drawer.Screen name='Login' component={LoginScreen}/>
         <Drawer.Screen name='Jockes' component={JockScreen}/>
         <Drawer.Screen name='Wifi' component={WifiScreen}/>

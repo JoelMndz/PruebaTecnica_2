@@ -1,5 +1,6 @@
 package com.ejercicio2;
 
+import com.reactlibrary.rnwifi.RNWifiPackage;
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
